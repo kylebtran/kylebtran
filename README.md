@@ -6,6 +6,6 @@ Currently studying Computer Science at UC Irvine, I build practical and performa
 
 Recently, I've been working on:
 - Architecting 60+ microservices and deploying agentic AI at scale for Lucid Motors.
-- Developing tools to analyze and optimize student curricula at UCI OIT, safeguarding and visualizing over 4.17 million lines of data.
+- Developing tools to analyze and optimize over 4.17 million lines of student curricula data at UCI OIT.
 - Engineering mission-critical avionics software at UCI CubeSat.
 - Designing and enhancing web experiences at Hack at UCI.
