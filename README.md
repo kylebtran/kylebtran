@@ -4,4 +4,4 @@ I build practical and performant solutions that interface with a multitude of de
 
 Incoming at Meta, previously at Lucid Motors whilst studying Computer Science at UC Irvine.
 
-[Website](kylebtran.com) | [LinkedIn](https://www.linkedin.com/in/kylebtran/)
+[Website](https://kylebtran.com/) | [LinkedIn](https://www.linkedin.com/in/kylebtran/)
